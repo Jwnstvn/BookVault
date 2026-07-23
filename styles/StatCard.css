@@ -1,0 +1,51 @@
+.stat-card{
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:25px;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+    cursor:pointer;
+
+    border:1px solid #E2E8F0;
+
+}
+
+.stat-card:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.stat-icon{
+
+    font-size:32px;
+
+    color:#58A0C8;
+
+}
+
+.stat-card h3{
+
+    font-size:32px;
+
+    font-weight:700;
+
+    color:#1E293B;
+
+    margin-bottom:5px;
+
+}
+
+.stat-card p{
+
+    color:#64748B;
+
+    margin:0;
+
+}
